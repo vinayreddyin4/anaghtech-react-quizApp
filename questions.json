@@ -1,0 +1,25 @@
+[{
+    "type": "Choose",
+    "question": "where does it come from ? Contray to popular belief, Lorem Ipsum is not simply random text. it has roots in aplace of classical Latin literature from 45 BC, making it over 2000 years old. ",
+    "answers": ["whatever!", "ohk!!", "Hmm.. Maybe", "Yeah!!"],
+    "correct": 2
+},
+{
+    "type": "TRUE_FALSE",
+    "question": "lorem lpsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "answers": ["Yes", "No"],
+    "correct": 1
+},
+{
+    "type": "choose",
+    "question": "Which NBA team has won 2017 championship?   ",
+    "answers": ["Cleveland Cavaliers", "Houston Rockets" , "Golden State Warriors", "Los Angeles Lakers"],
+    "correct": 3
+},
+{
+    "type": "choose",
+    "question": "Who won 2017 NFL championship?   ",
+    "answers": ["Oakland raiders", "49ers" , "New England Patriots", "packers"],
+    "correct": 3
+}
+]
